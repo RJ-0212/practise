@@ -1,0 +1,5 @@
+name=input("姓名:")
+year=input("出生年:")
+age=2025-int(year)
+#print('你的姓名是'+name+',今年'+str(age)+'歲。')
+print(f"你的名字是{name},今年{age}歲。")
